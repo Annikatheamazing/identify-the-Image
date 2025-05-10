@@ -5,7 +5,7 @@ Webcam.set( {
     png_quality:90
     });
     camera=document.getElementById("camera");
-    Webcam.attach(camera);
+    "Webcam.attach(#camera);"
     function take_snapshot()
 {
 
